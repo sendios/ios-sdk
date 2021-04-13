@@ -1,0 +1,11 @@
+framework module Sendios {
+  umbrella header "Sendios.h"
+
+  export *
+  module * { export * }
+}
+
+module Sendios.Swift {
+    header "Sendios-Swift.h"
+    requires objc
+}
