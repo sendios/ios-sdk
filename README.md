@@ -136,6 +136,11 @@ Pass an **APNS** registration token to Sendios beckend by using
 Sendios.shared.pushToken(.apns(token))
 ```
 
+Note: Firebase saves some tokens in keychain. If app is removed and reinstalled again.
+The flow might login app immediately after re-installation.
+Make sure that you have passed Firebase token to sendios,
+otherwise no pushes are going to be delivered.
+
 ## Rich Push
 The Sendios allows your iOS application to receive rich notifications with images, and badges.<br>
 It's also sends **delivered** event to analytics by didReceiveNotificationExtensionRequest.<br>
