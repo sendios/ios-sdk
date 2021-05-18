@@ -158,9 +158,9 @@ public final class Sendios : NSObject {
     }
 
     /**
-     Log a user's custom fields
+     Log user's custom fields
      
-     - Warning: The data is requred to help to optimize an app experience
+     - Warning: The data is required to help to optimize an app experience
      by making it easy to analyze and scale product and marketing experiments. If fields param is empty, no requests are performed.
      
      - Parameters:

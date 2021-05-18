@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/Sendios-Swift.h</key>
 		<data>
-		FJz5fE74Hs2LrHcDU6oIvmMndXQ=
+		L0Qd7sMMzrQjO58hKk/Fb7QMO5c=
 		</data>
 		<key>Headers/Sendios.h</key>
 		<data>
@@ -22,75 +22,75 @@
 		</data>
 		<key>Headers/Sendios.swift</key>
 		<data>
-		PRYn9mpElj5Y3xU8rZYPzFbrXCU=
+		Y1JMrKFH6wj4vAgSGsZjkR0ih2U=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		qUy6MHDUEoHTLEFPncwrlZh1O7I=
+		hKOrqEIbaFwX232QZlE3rnzF43o=
 		</data>
 		<key>Modules/Sendios.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		vgnkh9O92Myu+1Y/F7zPfZiPIKA=
+		iUghYpeK6rIbfLmBfOX90iwItD4=
 		</data>
 		<key>Modules/Sendios.swiftmodule/Project/i386.swiftsourceinfo</key>
 		<data>
-		vgnkh9O92Myu+1Y/F7zPfZiPIKA=
+		iUghYpeK6rIbfLmBfOX90iwItD4=
 		</data>
 		<key>Modules/Sendios.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		IHlkwfaPPfIuAJ8zGKMTeyOpetA=
+		V+0M6dsxVzXYt0PhoI6kX6kzFgs=
 		</data>
 		<key>Modules/Sendios.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		IHlkwfaPPfIuAJ8zGKMTeyOpetA=
+		V+0M6dsxVzXYt0PhoI6kX6kzFgs=
 		</data>
 		<key>Modules/Sendios.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		82bgRaTyFYRbGJoleDsg2O5sdJ0=
+		sdBLE8MXAINwmnBOQo7fO4tmitM=
 		</data>
 		<key>Modules/Sendios.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		L46BTf53hujRmyBwiH5EgWvMRmM=
+		UVvbsmtvkcZsUmdIwhuRVsVHfqE=
 		</data>
 		<key>Modules/Sendios.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tUXXbc1DeBVBlSjz+PI4fdgJa18=
+		EhEAjZPjkCUGPbURPs1kVw/PrOU=
 		</data>
 		<key>Modules/Sendios.swiftmodule/i386.swiftdoc</key>
 		<data>
-		82bgRaTyFYRbGJoleDsg2O5sdJ0=
+		sdBLE8MXAINwmnBOQo7fO4tmitM=
 		</data>
 		<key>Modules/Sendios.swiftmodule/i386.swiftinterface</key>
 		<data>
-		L46BTf53hujRmyBwiH5EgWvMRmM=
+		UVvbsmtvkcZsUmdIwhuRVsVHfqE=
 		</data>
 		<key>Modules/Sendios.swiftmodule/i386.swiftmodule</key>
 		<data>
-		tUXXbc1DeBVBlSjz+PI4fdgJa18=
+		EhEAjZPjkCUGPbURPs1kVw/PrOU=
 		</data>
 		<key>Modules/Sendios.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		YH9LqY9a1yystKzqxrZ4omP+J/g=
+		0VqJkakVqujM4sqlWxWxTUdxdQ0=
 		</data>
 		<key>Modules/Sendios.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		iZXF4UK/RnFymCH0jimJH2TJN2I=
+		PhrgERHiV6d9ngSP0wL9BCveU8E=
 		</data>
 		<key>Modules/Sendios.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		W4l65RN90H/A/KS1BQdE/Oq1zKA=
+		NqCQ5Z0RgT/GMrRXVV5ZTN0R8io=
 		</data>
 		<key>Modules/Sendios.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		YH9LqY9a1yystKzqxrZ4omP+J/g=
+		0VqJkakVqujM4sqlWxWxTUdxdQ0=
 		</data>
 		<key>Modules/Sendios.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		iZXF4UK/RnFymCH0jimJH2TJN2I=
+		PhrgERHiV6d9ngSP0wL9BCveU8E=
 		</data>
 		<key>Modules/Sendios.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		W4l65RN90H/A/KS1BQdE/Oq1zKA=
+		NqCQ5Z0RgT/GMrRXVV5ZTN0R8io=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -125,11 +125,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FJz5fE74Hs2LrHcDU6oIvmMndXQ=
+			L0Qd7sMMzrQjO58hKk/Fb7QMO5c=
 			</data>
 			<key>hash2</key>
 			<data>
-			0wUlC3j3fjlWaCzFg9URBsY+yP1wMypGX679QzLj/6Y=
+			5UHczTbPcaZQ4JIOfD2MW3vBAf3vYPKymcw9J/LRS5I=
 			</data>
 		</dict>
 		<key>Headers/Sendios.h</key>
@@ -147,187 +147,187 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PRYn9mpElj5Y3xU8rZYPzFbrXCU=
+			Y1JMrKFH6wj4vAgSGsZjkR0ih2U=
 			</data>
 			<key>hash2</key>
 			<data>
-			wuphEei94uH2t/lrAhrdTTKI8TCaYftEkWKYYel8kbE=
+			9WNPTkH0pP31eoQS2xV3ZAVCmWixEL8Zhjk6o9HZFG4=
 			</data>
 		</dict>
 		<key>Modules/Sendios.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vgnkh9O92Myu+1Y/F7zPfZiPIKA=
+			iUghYpeK6rIbfLmBfOX90iwItD4=
 			</data>
 			<key>hash2</key>
 			<data>
-			NIH46Tv968vo+WnGOoXsxchMs41wNtuT6ZzeRKG2jlY=
+			9BkT8EYfuexz4rluSpCWPeQfEORZ57SpenAsEjhJlDg=
 			</data>
 		</dict>
 		<key>Modules/Sendios.swiftmodule/Project/i386.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vgnkh9O92Myu+1Y/F7zPfZiPIKA=
+			iUghYpeK6rIbfLmBfOX90iwItD4=
 			</data>
 			<key>hash2</key>
 			<data>
-			NIH46Tv968vo+WnGOoXsxchMs41wNtuT6ZzeRKG2jlY=
+			9BkT8EYfuexz4rluSpCWPeQfEORZ57SpenAsEjhJlDg=
 			</data>
 		</dict>
 		<key>Modules/Sendios.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IHlkwfaPPfIuAJ8zGKMTeyOpetA=
+			V+0M6dsxVzXYt0PhoI6kX6kzFgs=
 			</data>
 			<key>hash2</key>
 			<data>
-			bvzUop+lmBAq20t7C6tSUsfZsvWHQYrGccNgN+8fDg4=
+			MJhry4iDWP6MsiCABqk2WjXVQcSjrE0Cj3/wpyEro38=
 			</data>
 		</dict>
 		<key>Modules/Sendios.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IHlkwfaPPfIuAJ8zGKMTeyOpetA=
+			V+0M6dsxVzXYt0PhoI6kX6kzFgs=
 			</data>
 			<key>hash2</key>
 			<data>
-			bvzUop+lmBAq20t7C6tSUsfZsvWHQYrGccNgN+8fDg4=
+			MJhry4iDWP6MsiCABqk2WjXVQcSjrE0Cj3/wpyEro38=
 			</data>
 		</dict>
 		<key>Modules/Sendios.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			82bgRaTyFYRbGJoleDsg2O5sdJ0=
+			sdBLE8MXAINwmnBOQo7fO4tmitM=
 			</data>
 			<key>hash2</key>
 			<data>
-			PgKz02iH7gK5VZyZ98EW8oRvDDJ9dYcqDYvFwhZNqSU=
+			NeV3v9yi+SISEE48Tn8sjjC7+def/up9099X0Y6/ioY=
 			</data>
 		</dict>
 		<key>Modules/Sendios.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L46BTf53hujRmyBwiH5EgWvMRmM=
+			UVvbsmtvkcZsUmdIwhuRVsVHfqE=
 			</data>
 			<key>hash2</key>
 			<data>
-			kFdkCWNjVMdR3mPxv+eAYriEk8ZwyXzkxDrmnFOY6K0=
+			8utucqoxas7mzZtABxe4EQCiMA9aQn7pJvZg0Q+aKk8=
 			</data>
 		</dict>
 		<key>Modules/Sendios.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tUXXbc1DeBVBlSjz+PI4fdgJa18=
+			EhEAjZPjkCUGPbURPs1kVw/PrOU=
 			</data>
 			<key>hash2</key>
 			<data>
-			NfrbMdxW6uVfgCAmnjTAwUS+SoXOrHPa5iFyQ3SaEsY=
+			OLienrswITAsQWIr/0MniLwHfKdjb0O6khcmLPRDNZg=
 			</data>
 		</dict>
 		<key>Modules/Sendios.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			82bgRaTyFYRbGJoleDsg2O5sdJ0=
+			sdBLE8MXAINwmnBOQo7fO4tmitM=
 			</data>
 			<key>hash2</key>
 			<data>
-			PgKz02iH7gK5VZyZ98EW8oRvDDJ9dYcqDYvFwhZNqSU=
+			NeV3v9yi+SISEE48Tn8sjjC7+def/up9099X0Y6/ioY=
 			</data>
 		</dict>
 		<key>Modules/Sendios.swiftmodule/i386.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L46BTf53hujRmyBwiH5EgWvMRmM=
+			UVvbsmtvkcZsUmdIwhuRVsVHfqE=
 			</data>
 			<key>hash2</key>
 			<data>
-			kFdkCWNjVMdR3mPxv+eAYriEk8ZwyXzkxDrmnFOY6K0=
+			8utucqoxas7mzZtABxe4EQCiMA9aQn7pJvZg0Q+aKk8=
 			</data>
 		</dict>
 		<key>Modules/Sendios.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tUXXbc1DeBVBlSjz+PI4fdgJa18=
+			EhEAjZPjkCUGPbURPs1kVw/PrOU=
 			</data>
 			<key>hash2</key>
 			<data>
-			NfrbMdxW6uVfgCAmnjTAwUS+SoXOrHPa5iFyQ3SaEsY=
+			OLienrswITAsQWIr/0MniLwHfKdjb0O6khcmLPRDNZg=
 			</data>
 		</dict>
 		<key>Modules/Sendios.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YH9LqY9a1yystKzqxrZ4omP+J/g=
+			0VqJkakVqujM4sqlWxWxTUdxdQ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			A3SKqj1FBJHrUL+l6yDAZjlZj41ehue1yTO9gctOUs0=
+			m9yLSaZ0BYqCmHhvQ+fr1Wxyjly94RL1j9Ik0uf4Eak=
 			</data>
 		</dict>
 		<key>Modules/Sendios.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iZXF4UK/RnFymCH0jimJH2TJN2I=
+			PhrgERHiV6d9ngSP0wL9BCveU8E=
 			</data>
 			<key>hash2</key>
 			<data>
-			0gURVzsiXR8zL+G6zP1PGYZ3jANt8yy3XRuccED+EUQ=
+			yoASentegFoxMOmBoIdjPPbVoch/JxO8fPHNnkaTjzE=
 			</data>
 		</dict>
 		<key>Modules/Sendios.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			W4l65RN90H/A/KS1BQdE/Oq1zKA=
+			NqCQ5Z0RgT/GMrRXVV5ZTN0R8io=
 			</data>
 			<key>hash2</key>
 			<data>
-			CQkWpHnEE+R64rKYVvVC/UN1qG68bOU9HtQc07MylZg=
+			aUeLN1mx05hOR7KobeuP8ltUPgA9il444xbo7V+80ZE=
 			</data>
 		</dict>
 		<key>Modules/Sendios.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YH9LqY9a1yystKzqxrZ4omP+J/g=
+			0VqJkakVqujM4sqlWxWxTUdxdQ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			A3SKqj1FBJHrUL+l6yDAZjlZj41ehue1yTO9gctOUs0=
+			m9yLSaZ0BYqCmHhvQ+fr1Wxyjly94RL1j9Ik0uf4Eak=
 			</data>
 		</dict>
 		<key>Modules/Sendios.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iZXF4UK/RnFymCH0jimJH2TJN2I=
+			PhrgERHiV6d9ngSP0wL9BCveU8E=
 			</data>
 			<key>hash2</key>
 			<data>
-			0gURVzsiXR8zL+G6zP1PGYZ3jANt8yy3XRuccED+EUQ=
+			yoASentegFoxMOmBoIdjPPbVoch/JxO8fPHNnkaTjzE=
 			</data>
 		</dict>
 		<key>Modules/Sendios.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			W4l65RN90H/A/KS1BQdE/Oq1zKA=
+			NqCQ5Z0RgT/GMrRXVV5ZTN0R8io=
 			</data>
 			<key>hash2</key>
 			<data>
-			CQkWpHnEE+R64rKYVvVC/UN1qG68bOU9HtQc07MylZg=
+			aUeLN1mx05hOR7KobeuP8ltUPgA9il444xbo7V+80ZE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
