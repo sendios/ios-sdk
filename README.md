@@ -33,7 +33,7 @@ Requirements
 By dependency manager *CocoaPods* (https://cocoapods.org)
 To integrate Sendios into your Xcode project using CocoaPods, specify it in your `Podfile`:
 ```ruby
-pod 'Sendios'
+pod 'SendiosSdk'
 ```
 
 By *Swift Package Manager* (https://swift.org/package-manager/)
